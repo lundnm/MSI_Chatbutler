@@ -1,5 +1,6 @@
 # project2-2025-team_16
 
+- Currently works with Python 3.11.9
 - Developed an Information Retrieval chatbot using LangChain to assist UMSI master’s students.
 - Integrated with OpenAI’s ChatGPT and various UMSI degree-related documents.
 - Provides guidance on degree requirements, course prerequisites, mastery courses, and other degree-related topics.
